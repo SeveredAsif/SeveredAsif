@@ -1,0 +1,115 @@
+# Repository Analysis & Categorization
+
+This file lists all repositories found on the user's profile and categorizes them based on inferred content and user input.
+
+## 1. High-Effort / Highlight Candidates
+*Projects that appear to be substantial, have descriptive names, or were specifically mentioned as important.*
+
+*   **MLP_from_scratch_using_numpy** (Jupyter Notebook)
+    *   *Reasoning:* "From scratch" implementations usually demonstrate deep understanding. User highlighted this.
+    *   *Category:* AI & Machine Learning
+*   **socketProgramming** (Java)
+    *   *Reasoning:* Core systems concept. Likely a substantial implementation.
+    *   *Category:* Systems & Networking
+*   **xv6** (C/Other)
+    *   *Reasoning:* OS coursework/modification. High technical complexity.
+    *   *Category:* Systems & Operating Systems
+*   **StudyMate** (EJS)
+    *   *Reasoning:* "A project for our 2-1 Database Course". Real-world application structure.
+    *   *Category:* Web Development
+*   **CovidTweetNLP** (Jupyter Notebook)
+    *   *Reasoning:* Specific domain application (NLP + Health). Likely data science work.
+    *   *Category:* AI & Data Science
+*   **microservice_demo** (Python)
+    *   *Reasoning:* Demonstrates architectural knowledge.
+    *   *Category:* Cloud & Architecture
+*   **Todo-s-Reminder** (C)
+    *   *Reasoning:* "1-1 Project". A complete application in C.
+    *   *Category:* Systems / Utilities
+
+## 2. Moderate Effort / Coursework Components
+*Projects that look like specific assignments or smaller components.*
+
+*   **parser** (Python)
+    *   *Reasoning:* Compiler component.
+    *   *Category:* Compilers
+*   **lex** (C++)
+    *   *Reasoning:* Compiler component (Lexical Analyzer).
+    *   *Category:* Compilers
+*   **SymbolTable** (C++)
+    *   *Reasoning:* Compiler component.
+    *   *Category:* Compilers
+*   **icg** (ANTLR)
+    *   *Reasoning:* Intermediate Code Generation. Compiler component.
+    *   *Category:* Compilers
+*   **MIPS** (C++)
+    *   *Reasoning:* Architecture simulation or assembly work.
+    *   *Category:* Systems / Architecture
+*   **Red-Black-Tree** (C++)
+    *   *Reasoning:* Data Structure implementation.
+    *   *Category:* Algorithms
+*   **maxCutGRASP** (C++)
+    *   *Reasoning:* Optimization algorithm.
+    *   *Category:* Algorithms
+*   **DecisionTree** (C++)
+    *   *Reasoning:* ML algorithm from scratch or usage.
+    *   *Category:* AI / Algorithms
+*   **N_puzzle** (Python)
+    *   *Reasoning:* AI search algorithm (A* etc).
+    *   *Category:* AI / Algorithms
+*   **wumpus** (C++)
+    *   *Reasoning:* AI agent problem.
+    *   *Category:* AI / Algorithms
+*   **Bash_Scripts** (Shell)
+    *   *Reasoning:* Collection of utility scripts.
+    *   *Category:* Systems / DevOps
+
+## 3. Low Effort / Empty / Forks / Unclear
+*Projects that might be empty, just forks, or have generic names. User specifically mentioned "Fine-Tuned-Qwen" has no work.*
+
+*   **Fine-Tuned-Qwen**
+    *   *Reasoning:* User explicitly stated "no work there".
+    *   *Action:* Exclude from highlights. List in "Other" or omit.
+*   **Instruct-Model-Deepseek** (Jupyter Notebook)
+    *   *Reasoning:* Similar naming to Qwen. Might be just a model card or simple run.
+    *   *Action:* Move to "Experiments" or "Other".
+*   **login_node_deploy** (JavaScript)
+    *   *Reasoning:* Marked as "fork".
+    *   *Action:* List in "Web" but do not highlight.
+*   **minikube** (JavaScript)
+    *   *Reasoning:* Name suggests a tool, but language is JS. Might be a config or simple test.
+    *   *Action:* List in "DevOps" but do not highlight.
+*   **comp**, **comp2**
+    *   *Reasoning:* Generic names. Likely scratchpads.
+    *   *Action:* List in "Miscellaneous" or omit.
+*   **hashmap**, **hashMapp**
+    *   *Reasoning:* Duplicate/similar names. Likely DS implementation.
+    *   *Action:* Group under Algorithms.
+*   **FFTandDFT** (Jupyter Notebook)
+    *   *Reasoning:* Math/Signal processing.
+    *   *Action:* List in "Math/Algorithms".
+*   **Tour-Dao** (JavaScript)
+    *   *Reasoning:* Web project?
+    *   *Action:* List in "Web".
+*   **NotesWebsite** (JavaScript)
+    *   *Reasoning:* Web project.
+    *   *Action:* List in "Web".
+*   **AliAsifKhan** (JavaScript)
+    *   *Reasoning:* Personal site repo?
+    *   *Action:* List in "Web".
+*   **ipc** (C++)
+    *   *Reasoning:* Inter-Process Communication.
+    *   *Action:* List in "Systems".
+*   **MinMax** (Python)
+    *   *Reasoning:* Algorithm.
+    *   *Action:* List in "AI / Algorithms".
+*   **List_assignment** (C++)
+    *   *Reasoning:* Homework.
+    *   *Action:* List in "Algorithms".
+
+## Summary of Categories for PROJECTS.md
+
+1.  **Artificial Intelligence & Data Science** (MLP, CovidTweetNLP, DecisionTree, N_puzzle, wumpus, MinMax)
+2.  **Systems Engineering & Compilers** (xv6, socketProgramming, parser, lex, SymbolTable, icg, MIPS, ipc, Bash_Scripts, Todo-s-Reminder)
+3.  **Web Development & Cloud** (StudyMate, microservice_demo, NotesWebsite, Tour-Dao, login_node_deploy, minikube)
+4.  **Algorithms & Data Structures** (Red-Black-Tree, maxCutGRASP, hashmap, FFTandDFT)

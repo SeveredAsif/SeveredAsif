@@ -1,0 +1,25 @@
+# Profile Design Checklist
+Based on: [How to Design an Attractive GitHub Profile Readme](https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
+
+- [x] **Special Repository**: Created `SeveredAsif/SeveredAsif`.
+- [x] **Unique Header**: Use `capsule-render` for a dynamic wave/gradient header instead of standard text.
+    - *Implementation:* Will add a "Waving" header image.
+- [x] **Social Icons**: Use icons (LinkedIn, Email, etc.) instead of text links.
+    - *Implementation:* Will add social icons below the header.
+- [ ] **GIFs**: Add a dynamic GIF (anime/meme) to show personality.
+    - *Implementation:* I will add a placeholder for a GIF, as I don't have a specific one for you. You can replace the link.
+- [x] **"About Me" in YAML**: Style the bio section as a code block.
+    - *Implementation:* Will convert the bio to a YAML code block.
+- [x] **Tech Stack Icons**: Use `DevIcon` or `SkillIcons`.
+    - *Implementation:* Already using `skillicons.dev`.
+- [x] **GitHub Stats**: Add stats cards.
+    - *Implementation:* Already added.
+- [x] **Snake Animation**: Add the contribution graph snake game.
+    - *Implementation:* Will add the code for the snake animation, but you need to set up the GitHub Action workflow for it to work.
+
+## User Requests
+- [x] **Poridhi Project**: Add to highlights (Contributor).
+- [x] **Compiler Project (icg)**: Move to main page focus.
+- [x] **FoodAli**: Add to lists.
+- [x] **Fibonacci Heap**: Add to lists (Note: Likely private or inside another repo, adding as placeholder).
+- [x] **Private Repos**: Acknowledge existence. (I cannot read them, but I will create a section for you to uncomment/fill).

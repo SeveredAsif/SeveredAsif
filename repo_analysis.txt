@@ -5,9 +5,21 @@ This file lists all repositories found on the user's profile and categorizes the
 ## 1. High-Effort / Highlight Candidates
 *Projects that appear to be substantial, have descriptive names, or were specifically mentioned as important.*
 
+*   **AI-search-system** (Poridhi)
+    *   *Reasoning:* User highlighted this. Contributor role. AI Search with Airflow/BentoML.
+    *   *Category:* AI & Data Science / Cloud
+*   **bugs-api-avengers** (Hackathon)
+    *   *Reasoning:* User highlighted this. Microservices with full observability stack (ELK, Prometheus, Jaeger).
+    *   *Category:* Systems / DevOps / Cloud
+*   **FoodAli** (Java)
+    *   *Reasoning:* Recently added, likely a full application.
+    *   *Category:* Web/App Development
 *   **MLP_from_scratch_using_numpy** (Jupyter Notebook)
     *   *Reasoning:* "From scratch" implementations usually demonstrate deep understanding. User highlighted this.
     *   *Category:* AI & Machine Learning
+*   **icg** (ANTLR)
+    *   *Reasoning:* Compiler component (Intermediate Code Generation). User requested focus.
+    *   *Category:* Compilers
 *   **socketProgramming** (Java)
     *   *Reasoning:* Core systems concept. Likely a substantial implementation.
     *   *Category:* Systems & Networking
@@ -30,6 +42,24 @@ This file lists all repositories found on the user's profile and categorizes the
 ## 2. Moderate Effort / Coursework Components
 *Projects that look like specific assignments or smaller components.*
 
+*   **k8scicd** (JavaScript)
+    *   *Reasoning:* Kubernetes CI/CD. DevOps focus.
+    *   *Category:* DevOps / Cloud
+*   **jwtlogin** (Java)
+    *   *Reasoning:* Security/Auth implementation.
+    *   *Category:* Web / Security
+*   **FourierTransformOffline** (Jupyter)
+    *   *Reasoning:* Math/Signal processing.
+    *   *Category:* Algorithms / Math
+*   **CompositeDecoratorOffline** (Java)
+    *   *Reasoning:* Design Patterns.
+    *   *Category:* Systems / Design Patterns
+*   **Convolutions** (Python)
+    *   *Reasoning:* Computer Vision / Math.
+    *   *Category:* AI / Algorithms
+*   **Fibonacci Heap** (Unknown/Private)
+    *   *Reasoning:* User mentioned this.
+    *   *Category:* Algorithms
 *   **parser** (Python)
     *   *Reasoning:* Compiler component.
     *   *Category:* Compilers
@@ -38,9 +68,6 @@ This file lists all repositories found on the user's profile and categorizes the
     *   *Category:* Compilers
 *   **SymbolTable** (C++)
     *   *Reasoning:* Compiler component.
-    *   *Category:* Compilers
-*   **icg** (ANTLR)
-    *   *Reasoning:* Intermediate Code Generation. Compiler component.
     *   *Category:* Compilers
 *   **MIPS** (C++)
     *   *Reasoning:* Architecture simulation or assembly work.
@@ -63,6 +90,9 @@ This file lists all repositories found on the user's profile and categorizes the
 *   **Bash_Scripts** (Shell)
     *   *Reasoning:* Collection of utility scripts.
     *   *Category:* Systems / DevOps
+*   **List_assignment** (C++)
+    *   *Reasoning:* Homework.
+    *   *Category:* Algorithms
 
 ## 3. Low Effort / Empty / Forks / Unclear
 *Projects that might be empty, just forks, or have generic names. User specifically mentioned "Fine-Tuned-Qwen" has no work.*
@@ -103,13 +133,17 @@ This file lists all repositories found on the user's profile and categorizes the
 *   **MinMax** (Python)
     *   *Reasoning:* Algorithm.
     *   *Action:* List in "AI / Algorithms".
-*   **List_assignment** (C++)
-    *   *Reasoning:* Homework.
-    *   *Action:* List in "Algorithms".
+*   **SeveredAsif**
+    *   *Reasoning:* Config repo.
+    *   *Action:* Ignore.
+*   **github-readme-stats-asif**
+    *   *Reasoning:* Config/Fork.
+    *   *Action:* Ignore.
 
 ## Summary of Categories for PROJECTS.md
 
 1.  **Artificial Intelligence & Data Science** (MLP, CovidTweetNLP, DecisionTree, N_puzzle, wumpus, MinMax)
-2.  **Systems Engineering & Compilers** (xv6, socketProgramming, parser, lex, SymbolTable, icg, MIPS, ipc, Bash_Scripts, Todo-s-Reminder)
-3.  **Web Development & Cloud** (StudyMate, microservice_demo, NotesWebsite, Tour-Dao, login_node_deploy, minikube)
-4.  **Algorithms & Data Structures** (Red-Black-Tree, maxCutGRASP, hashmap, FFTandDFT)
+2.  **Systems Engineering & Compilers** (xv6, socketProgramming, icg, parser, lex, SymbolTable, MIPS, ipc, Bash_Scripts, Todo-s-Reminder)
+3.  **Web Development & Cloud** (Poridhi, FoodAli, StudyMate, microservice_demo, NotesWebsite, Tour-Dao, login_node_deploy, minikube)
+4.  **Algorithms & Data Structures** (Fibonacci Heap, Red-Black-Tree, maxCutGRASP, hashmap, FFTandDFT, List_assignment)
+

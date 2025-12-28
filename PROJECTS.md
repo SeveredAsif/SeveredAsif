@@ -7,8 +7,10 @@ Here is a comprehensive list of my projects, categorized by domain.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**AI-search-system**](https://github.com/nnafis-007/AI-search-system) | *Contributor*. AI Search System with Airflow & BentoML. | `Python`, `Jupyter`, `Airflow` |
 | [**MLP_from_scratch_using_numpy**](https://github.com/SeveredAsif/MLP_from_scratch_using_numpy) | Multi-Layer Perceptron implementation from scratch to understand NN mathematics. | `Python`, `NumPy` |
 | [**CovidTweetNLP**](https://github.com/SeveredAsif/CovidTweetNLP) | Sentiment analysis and NLP on Covid-19 related tweets. | `Jupyter`, `NLP` |
+| [**Convolutions**](https://github.com/SeveredAsif/Convolutions) | Computer Vision convolution operations. | `Python` |
 | [**DecisionTree**](https://github.com/SeveredAsif/DecisionTree) | Implementation of Decision Tree algorithm. | `C++` |
 | [**N_puzzle**](https://github.com/SeveredAsif/N_puzzle) | Solving the N-puzzle problem using AI search algorithms. | `Python` |
 | [**wumpus**](https://github.com/SeveredAsif/wumpus) | AI agent for the Wumpus World problem. | `C++` |
@@ -21,12 +23,13 @@ Here is a comprehensive list of my projects, categorized by domain.
 | :--- | :--- | :--- |
 | [**xv6**](https://github.com/SeveredAsif/xv6) | Modifications and experiments with the xv6 teaching operating system. | `C`, `OS` |
 | [**socketProgramming**](https://github.com/SeveredAsif/socketProgramming) | Low-level network socket programming implementation. | `Java`, `Networking` |
+| [**icg**](https://github.com/SeveredAsif/icg) | Intermediate Code Generation using ANTLR. | `ANTLR` |
 | [**Todo-s-Reminder**](https://github.com/SeveredAsif/Todo-s-Reminder) | A complete CLI-based reminder application. | `C` |
+| [**CompositeDecoratorOffline**](https://github.com/SeveredAsif/CompositeDecoratorOffline) | Design patterns implementation (Composite & Decorator). | `Java` |
 | [**Bash_Scripts**](https://github.com/SeveredAsif/Bash_Scripts) | Automation and system utility scripts. | `Shell` |
 | [**parser**](https://github.com/SeveredAsif/parser) | Syntax analyzer for a custom language subset. | `Python` |
 | [**lex**](https://github.com/SeveredAsif/lex) | Lexical analyzer implementation. | `C++` |
 | [**SymbolTable**](https://github.com/SeveredAsif/SymbolTable) | Symbol Table management for compilers. | `C++` |
-| [**icg**](https://github.com/SeveredAsif/icg) | Intermediate Code Generation using ANTLR. | `ANTLR` |
 | [**MIPS**](https://github.com/SeveredAsif/MIPS) | MIPS architecture simulation/assembly. | `C++` |
 | [**ipc**](https://github.com/SeveredAsif/ipc) | Inter-Process Communication mechanisms. | `C++` |
 
@@ -35,7 +38,11 @@ Here is a comprehensive list of my projects, categorized by domain.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**bugs-api-avengers**](https://github.com/nnafis-007/bugs-api-avengers) | *Contributor*. Microservices with full observability stack (ELK, Kafka). | `Node.js`, `React`, `Kafka`, `ELK` |
+| [**FoodAli**](https://github.com/SeveredAsif/FoodAli) | Food delivery/management application. | `Java` |
 | [**StudyMate**](https://github.com/SeveredAsif/StudyMate) | Database course project for student collaboration. | `EJS`, `Node.js` |
+| [**k8scicd**](https://github.com/SeveredAsif/k8scicd) | Kubernetes CI/CD pipeline setup. | `JavaScript`, `DevOps` |
+| [**jwtlogin**](https://github.com/SeveredAsif/jwtlogin) | JWT-based authentication system. | `Java`, `Security` |
 | [**microservice_demo**](https://github.com/SeveredAsif/microservice_demo) | Demonstration of microservices architecture patterns. | `Python` |
 | [**NotesWebsite**](https://github.com/SeveredAsif/NotesWebsite) | A web application for taking and managing notes. | `JavaScript` |
 | [**Tour-Dao**](https://github.com/SeveredAsif/Tour-Dao) | Web application project. | `JavaScript` |
@@ -47,8 +54,10 @@ Here is a comprehensive list of my projects, categorized by domain.
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| [**Fibonacci Heap**](#) | *Private/Local*. Advanced heap data structure implementation. | `C++` |
 | [**Red-Black-Tree**](https://github.com/SeveredAsif/Red-Black-Tree) | Implementation of the self-balancing Red-Black Tree. | `C++` |
 | [**maxCutGRASP**](https://github.com/SeveredAsif/maxCutGRASP) | Solving Max-Cut problem using GRASP metaheuristic. | `C++` |
+| [**FourierTransformOffline**](https://github.com/SeveredAsif/FourierTransformOffline) | Offline Fourier Transform implementation. | `Jupyter` |
 | [**hashmap**](https://github.com/SeveredAsif/hashmap) | Custom Hash Map implementation. | `C++` |
 | [**FFTandDFT**](https://github.com/SeveredAsif/FFTandDFT) | Fast Fourier Transform and DFT implementations. | `Jupyter` |
 

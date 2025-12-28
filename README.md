@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-asif-khan-217674248/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliasifkhan5@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://your-portfolio.com)
 
 </div>
@@ -13,10 +13,9 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Asif
+name: Ali Asif Khan
 role: [AI Researcher, Systems Engineer, Full Stack Developer]
 learning: [Advanced NLP, Distributed Systems, Kernel Development]
-hobbies: [Coding, Gaming, Anime]
 current_focus: "Building scalable AI systems & exploring OS architecture"
 ```
 
@@ -53,6 +52,7 @@ current_focus: "Building scalable AI systems & exploring OS architecture"
 | [**bugs-api-avengers**](https://github.com/nnafis-007/bugs-api-avengers) | *(Contributor)* Microservices with full observability (ELK, Kafka, Prometheus). | `Node.js`, `K8s` |
 | [**Tour-Dao**](https://github.com/SeveredAsif/Tour-Dao) | A web application project focusing on tourism management. | `JavaScript` |
 | [**FoodAli**](https://github.com/SeveredAsif/FoodAli) | A comprehensive food delivery and management application. | `Java` |
+| [**StudyMate**](https://github.com/SeveredAsif/StudyMate) | Database course project for student collaboration. | `EJS`, `Node.js` |
 
 ---
 
@@ -63,8 +63,8 @@ current_focus: "Building scalable AI systems & exploring OS architecture"
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeveredAsif&show_icons=true&theme=tokyonight&hide_border=true" alt="SeveredAsif's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeveredAsif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-asif.vercel.app/api?username=SeveredAsif&show_icons=true&theme=tokyonight&hide_border=true" alt="SeveredAsif's GitHub Stats" />
+  <img src="https://github-readme-stats-asif.vercel.app/api/top-langs/?username=SeveredAsif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">

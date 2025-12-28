@@ -2,6 +2,8 @@
 
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=SeveredAsif&label=Views&color=blue&style=flat-square)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-asif-khan-217674248/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliasifkhan5@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aliasif.khan.716)
@@ -73,8 +75,4 @@ current_focus: "Building scalable AI systems & exploring OS architecture"
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Coding Meme" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SeveredAsif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>

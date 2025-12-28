@@ -74,3 +74,7 @@ current_focus: "Building scalable AI systems & exploring OS architecture"
 <p align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" alt="Coding Meme" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeveredAsif&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>

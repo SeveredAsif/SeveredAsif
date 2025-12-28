@@ -69,6 +69,8 @@ Here is a comprehensive list of my projects, categorized by domain and rated by 
 | ⭐ | [**maxCutGRASP**](https://github.com/SeveredAsif/maxCutGRASP) | Solving Max-Cut problem using GRASP metaheuristic. | `C++` |
 | ⭐ | [**FourierTransformOffline**](https://github.com/SeveredAsif/FourierTransformOffline) | Fourier Transform implementation. | `Jupyter` |
 | ⭐ | [**hashmap**](https://github.com/SeveredAsif/hashmap) | Custom Hash Map implementation. | `C++` |
+| ⭐ | [**hashMapp**](https://github.com/SeveredAsif/hashMapp) | Another Hash Map implementation variant. | `C++` |
+| ⭐ | [**List_assignment**](https://github.com/SeveredAsif/List_assignment) | Linked List assignment implementation. | `C++` |
 | ⭐ | [**FFTandDFT**](https://github.com/SeveredAsif/FFTandDFT) | Fast Fourier Transform and DFT implementations. | `Jupyter` |
 
 ## 🧪 Experiments & Other
@@ -78,3 +80,5 @@ Here is a comprehensive list of my projects, categorized by domain and rated by 
 *   [Instruct-Model-Deepseek](https://github.com/SeveredAsif/Instruct-Model-Deepseek)
 *   [comp](https://github.com/SeveredAsif/comp)
 *   [comp2](https://github.com/SeveredAsif/comp2)
+*   [AliAsifKhan](https://github.com/SeveredAsif/AliAsifKhan)
+*   [SeveredAsif](https://github.com/SeveredAsif/SeveredAsif)

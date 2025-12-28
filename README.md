@@ -65,6 +65,10 @@ current_focus: "Building scalable AI systems & exploring OS architecture"
 
 ### 📊 GitHub Stats
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SeveredAsif&theme=algolia&no-frame=true&row=1&column=7" alt="SeveredAsif's Trophies" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats-asif.vercel.app/api?username=SeveredAsif&show_icons=true&theme=tokyonight&hide_border=true" alt="SeveredAsif's GitHub Stats" />
   <img src="https://github-readme-stats-asif.vercel.app/api/top-langs/?username=SeveredAsif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
